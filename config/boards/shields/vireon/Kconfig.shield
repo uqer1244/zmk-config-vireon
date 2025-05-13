@@ -1,5 +1,4 @@
 config VIREON_LEFT
     def_bool $(shields_list_contains,vireon_left)
-
 config VIREON_RIGHT
     def_bool $(shields_list_contains,vireon_right)
