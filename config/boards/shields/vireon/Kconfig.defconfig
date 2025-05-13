@@ -1,4 +1,4 @@
-if VIREON_LEFT
+if VIREON_LEFT || VIREON_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "vireon"
